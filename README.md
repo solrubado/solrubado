@@ -15,5 +15,4 @@ I'm currently expanding my knowledge on Blockchain development with Solidity ðŸ¤
 <br><br>
 
   
-[![Sol's github activity graph](https://activity-graph.herokuapp.com/graph?username=solrubado&theme=dracula)](https://github.com/solrubado/github-readme-activity-graph)
-  
+
